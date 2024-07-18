@@ -8,8 +8,8 @@
     },
     "files": [
         "main.blocks",
-        "README.md",
-        "main.py"
+        "main.py",
+        "README.md"
     ],
     "testFiles": [
         "test.ts"
